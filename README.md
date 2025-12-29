@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhadraaa&label=Profile%20views&color=0e75b6&style=flat" alt="bhadraaa" /> </p>
 
-- 🔭 I’m currently working on [Neuropulse](https://github.com/bhadraaa/Neuropulse)
+- 🔭 I’m currently working on [Aerosentry](https://github.com/bhadraaa/Neuropulse)
 
 - 📫 How to reach me **bhadra.j05@gmail.com**
 
