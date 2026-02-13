@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Aerosentry](https://github.com/adithyasalesh/aerosentry)
 
-- 📫 How to reach me **bhadra.j05@gmail.com**
+- 📫 How to reach me **bhadraj12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
